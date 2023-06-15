@@ -1,4 +1,5 @@
-const timeHelper = ({startDate, endDate}) => {
-	return 'November'
-}
+const timeHelper = ({ startDate, endDate }) => {
+  console.log('TJABBBBBAAAAAAAAAAAA');
+};
 
+export default { timeHelper };
